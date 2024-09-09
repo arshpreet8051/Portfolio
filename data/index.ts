@@ -163,6 +163,14 @@ export const navItems = [
       profile:"/c6.jpeg",
       link:"https://www.linkedin.com/in/abhinav-prashar-48733b209/"
     },
+    {
+      quote:
+        "I highly recommend Arshpreet, with whom I worked on a chatbot project using Machine Learning, integrated into our college website. He is a hardworking individual with exceptional problem-solving skills, particularly in Data Structures and Algorithms. Arshpreet consistently demonstrated a strong work ethic and technical expertise throughout our collaboration.",
+      name: "Amanjot Singh",
+      title: "Software Engineer @ Nucleus Software",
+      profile:"/c8.jpeg",
+      link:"https://www.linkedin.com/in/amanjot-singh726/"
+    },
   ];
   
   export const companies = [
